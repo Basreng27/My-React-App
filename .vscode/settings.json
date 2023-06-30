@@ -1,0 +1,7 @@
+{
+  "eslint.format.enable": true,
+  "eslint.run": "onSave",
+  "vs-code-prettier-eslint.prettierLast": true,
+  "prettier.jsxSingleQuote": true,
+  "prettier.withNodeModules": true
+}
