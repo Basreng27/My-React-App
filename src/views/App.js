@@ -1,7 +1,7 @@
 import React, { Component, Suspense } from "react";
 import { HashRouter, Route, Routes } from "react-router-dom";
 import LoadingApp from "../components/LoadingApp";
-import "../scss/style.scss";
+// import "../scss/style.scss";
 
 class App extends Component {
   render() {
